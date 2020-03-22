@@ -7,7 +7,7 @@ A library for parsing gpx data. Works against most of the Gpx v1.0 spec and Gpx 
 
 #Installation
 
-	$ npm install viade-gpx-parser
+	$ npm install viade-gpx-parse
 
 #Usage
 
