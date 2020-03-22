@@ -1,14 +1,15 @@
 {
-  "name": "gpx-parse",
-  "author": "Elliot Stokes",
-  "description": "a GPX parser for Node and client-side JavaScript.",
-  "version": "0.10.4",
+  "name": "viade-gpx-parse",
+  "author": "Luis Presa Collada",
+  "description": "For of the npm package 'gpx-parse', adapting it to one of my projects, viade_en2a",
+  "version": "0.1.0",
   "license": "MIT",
   "keywords": [
     "gpx",
     "parser",
     "gps",
-    "geo"
+    "geo",
+    "viade"
   ],
   "dependencies": {
     "xml2js": "^0.4.4"

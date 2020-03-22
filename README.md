@@ -1,21 +1,16 @@
-gpx-parse [![NPM Version](https://badge.fury.io/js/gpx-parse.png)](https://badge.fury.io/js/gpx-parse) [![Build Status](https://travis-ci.org/elliotstokes/gpx-parse.png?branch=master)](https://travis-ci.org/elliotstokes/gpx-parse) [![Coverage Status](https://coveralls.io/repos/elliotstokes/gpx-parse/badge.png?branch=master)](https://coveralls.io/r/elliotstokes/gpx-parse?branch=master) [![Code Climate](https://codeclimate.com/github/elliotstokes/gpx-parse.png)](https://codeclimate.com/github/elliotstokes/gpx-parse)
-========
+This project is a fork of an already existing node module, gpx-parse. 
 
-A library for parsing gpx data. Works against most of the Gpx v1.0 spec and Gpx v1.1. Feel free to fork if you need something specific.
+I'm only making some changes for it to work in my project.
 
-More information available on the [Project Page](http://www.vapidspace.com/gpx-parse)
+A library for parsing gpx data. Works against most of the Gpx v1.0 spec and Gpx v1.1. As in the original project please be my guest and fork if you need something specific.
+
 
 #Installation
 
-	$ npm install gpx-parse
-
-#Or with bower
-
-	$ bower install gpx-parse
+	$ npm install viade-gpx-parser
 
 #Usage
 
-The module has been designed to work within node but you can also use it on the client side using the browserfy version that can be found in the dist folder.
 
 ```javascript
 var gpxParse = require("gpx-parse");
