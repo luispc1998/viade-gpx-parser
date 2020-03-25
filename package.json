@@ -2,7 +2,7 @@
   "name": "viade-gpx-parse",
   "author": "Luis Presa Collada",
   "description": "For of the npm package 'gpx-parse', adapting it to one of my projects, viade_en2a",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "keywords": [
     "gpx",
@@ -38,7 +38,7 @@
     "lcov": "jscoverage lib && GPXPARSE_COV=1 nodeunit --reporter=lcov tests",
     "browserify": "node_modules/.bin/grunt browserify"
   },
-  "browserify":{
+  "browserify": {
     "./lib-cov/gpx-parse.js": false
   }
 }
